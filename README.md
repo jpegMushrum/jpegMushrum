@@ -1,5 +1,5 @@
 # jpegMushrum
 
-Male, 18 y.o. Like games, guitar and japanese music, anime, manga, novels. Now learning JS/TS, React, TON.
+Male, 19 y.o. Like games, guitar and japanese music, anime, manga, novels.
 
-More information about me you can find on my [visit card site](http://jpegmushrum.ru).
+ITMO SE 00y27
